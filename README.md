@@ -12,3 +12,9 @@
   3. Put ctm compact tiles in the "in" folder
   4. Run convert.bat
   5. Check results in "out" folder
+
+## Limitations
+  * Input tiles must all have the same resolution and be square
+  * Only for PNG, other types not tested
+  * Slower for larger images (takes 60 milliseconds for 128x images)
+  * Files don't have valid digital signatures
