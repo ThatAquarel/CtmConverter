@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../CtmConverter/.idea/CtmConverter.iml" filepath="$PROJECT_DIR$/../CtmConverter/.idea/CtmConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CtmConverter.iml" filepath="$PROJECT_DIR$/.idea/CtmConverter.iml" />
     </modules>
   </component>
 </project>
